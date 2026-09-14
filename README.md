@@ -149,31 +149,39 @@ A centralized interaction system for handling contextual gameplay interactions.
 
 ## Screenshots
 
-### General Gameplay
-
-
-
 ### Shop System
 
-
+![Shop System](images/shop-system.png)
+![Shop System interaction prompt](images/shop-system-interact.png)
 
 ### Checkpoint & Respawn System
 
-
+![Checkpoint & Respawn System](images/checkpoint-rest-system.png)
 
 ### Forest Echo System
 
+![Forest Echo](images/forest-echo.png)
 
+![Forest Echo interaction prompt](images/forest-echo-interact.png)
+
+
+## Demo Gameplay Videos
+
+### Shop System
+
+[Shop System Demo](https://youtu.be/TIpo_2qcRBE?si=lpxOdrns4plO5B3z)
+
+### Checkpoint & Rest System
+
+[Checkpoint & Rest System Demo](https://youtu.be/B8xyV9Snspg?si=3HOxB1TVWc4QPtT-)
+
+### Forest Echo + Respawn System
+
+[Forest Echo + Respawn System Demo](https://youtu.be/247q80k-P8s?si=NzNxoXRgIO6esLav)
 
 ### Cutscene System
 
-## Demo Gameplay videos
-
-Links will be added soon.
-
-## Source Code
-
-Example scripts will be added soon.
+[Cutscene System Demo](https://youtu.be/NScQ_ZYpguI?si=PN60iiFqu-pWffHW)
 
 ## Notes
 
