@@ -164,7 +164,6 @@ A centralized interaction system for handling contextual gameplay interactions.
 
 ![Forest Echo interaction prompt](images/forest-echo-interact.png)
 
-
 ## Demo Gameplay Videos
 
 ### Shop System
@@ -182,6 +181,10 @@ A centralized interaction system for handling contextual gameplay interactions.
 ### Cutscene System
 
 [Cutscene System Demo](https://youtu.be/NScQ_ZYpguI?si=PN60iiFqu-pWffHW)
+
+## Source Code
+
+Example scripts are organized by gameplay system in the `Scripts` folder.
 
 ## Notes
 
