@@ -152,6 +152,7 @@ A centralized interaction system for handling contextual gameplay interactions.
 ### Shop System
 
 ![Shop System](images/shop-system.png)
+
 ![Shop System interaction prompt](images/shop-system-interact.png)
 
 ### Checkpoint & Respawn System
